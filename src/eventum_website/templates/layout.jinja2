@@ -24,13 +24,31 @@
     <meta name="twitter:creator" content="@egafni"/>
     <meta name="twitter:card" content="summary_large_image"/>
     <meta name="twitter:image" content="{{ url_for('static', filename='img/flask-jinja@2x.jpg') }}"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/markdown.css') }}">
+    <style>
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+        }
 
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
+    </style>
     {% block css %}{% endblock %}
 </head>
 
 <body>
 {% include 'navigation.jinja2' %}
-{% block content %}{% endblock %}
+{% block content %}
+
+{% endblock %}
 </body>
 
 </html>

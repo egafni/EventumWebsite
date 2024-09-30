@@ -1,4 +1,9 @@
-# Eventum.ai
+<!-- <img src="/static/img/logo.png" width="200"> -->
+
+Eventum.ai
+==========
+
+{{ from_eventum }}
 
 We are a highly technical AI talent network and consulting agency that works with companies to accelerate research,
 development, and engineering of AI systems.
@@ -6,19 +11,19 @@ development, and engineering of AI systems.
 No bullshit, just world-class AI talent to help you build incredible
 technology.
 
-# About us
+About us
+========
 
 Eventum is in SF, and our talent is split SF/Bay Area are and Eastern Europe.
 
 * SF/Bay Area Talent
     * Includes former [Meta](http://meta.com), [OpenAI](openai.com), [Google](http://google.com), and early-employees of high-flying AI unicorn startups
 * International ML talent
-    * World-class 
-    * Lower rates, higher quality work, 6-12hr time-difference
     * Experience at world's biggest tech companies
     * Graduates from top ML university programs
     * Winners of international ML competitions, and science olympiads 
-
+    * Lower rates, higher quality work
+    
 We have a very rigorous ML interview process for all talent.
 
 * Our most Senior ML Engineers perform technical-interviews
@@ -28,10 +33,11 @@ We have a very rigorous ML interview process for all talent.
     * Vast majority of applicants fail the technical interviews
     * Our ML Engineers are usually the most technical and experienced people to join our clients' teams
 
-Our founder is [Erik Gafni](http://www.erikgafni.com/), a seasoned AI entrepreneur and engineer with a background in
+Our founder [Erik Gafni](http://www.erikgafni.com/), a seasoned AI entrepreneur and engineer with a background in
     AI research and development.
 
-# Services
+Services
+========
 
 Consult-to-hire (most popular)
 
@@ -52,7 +58,8 @@ Project-based Consulting
 
 * Work with our team directly to deliver a result or specific milestones.  We only work with companies that have
 
-# Example Case Studies
+Example Case Studies
+====================
 
 [Salt AI](https://getsalt.ai/)
 ($33M A16Z Seed round, founders of MySpace) is a visual development platform for teams to build AI faster in
@@ -86,7 +93,9 @@ Project-based Consulting
       
 > "Eventum came in and quenched our MLOps fire in quick order ensuring our ML Scientists could make rapid 
 > progress. We then immediately hired them to help build us a generative AI audio model from scratch"
-> - Shawn Zhang, CTO, Co-Founder
+
+<img src="/static/img/shawn_zshang.png" width="100">
+- Shawn Zhang, CTO, Co-Founder
 
 [Nouns DAO](http://nouns.wtf) ($30M+ treasury, largest DAO)
 
@@ -114,7 +123,8 @@ Project-based Consulting
 
 etc.
 
-# Contact us
+Contact us
+============
 
 Interested in contacting us?
 
