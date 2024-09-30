@@ -14,6 +14,8 @@ development, and engineering of AI systems.
 No bullshit, just world-class AI talent to help you build incredible
 technology.
 
+[Contact](#contact)
+
 About us <a name="about"></a>
 ========
 
