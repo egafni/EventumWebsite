@@ -21,11 +21,11 @@ About us <a name="about"></a>
 
 * SF/Bay Area Talent
     * Includes former [Meta](http://meta.com), [OpenAI](openai.com), [Google](http://google.com), and early-employees of
-      high-flying AI unicorn startups
+      AI unicorn startups
 * International ML talent
     * Experience at world's biggest tech companies
     * Graduates from top ML university programs
-    * Winners of international ML competitions, and science olympiads
+    * Winners of international ML competitions and science olympiads
     * Lower rates, higher quality work
 
 **We have a very rigorous ML interview process for all talent**
@@ -45,7 +45,7 @@ Services  <a name="services"></a>
 
 **Consult-to-hire (most popular)**
 
-* Hire an ML Engineer consultant with an option to hire them full-time at a later date
+* Work with an ML Engineer consultant with an option to hire them full-time at a later date
     * Consultant must also be interested in the full-time hire
 * European ML Engineer:
     * $45-$75/hr
@@ -61,6 +61,10 @@ Services  <a name="services"></a>
 **Project-based Consulting**
 
 * Work with our team directly to deliver a result or specific milestones. We only work with companies that have
+
+**Advising**
+
+* Get advice on your AI strategy, team, or project
 
 Example Case Studies  <a name="case_studies"></a>
 ====================
@@ -94,7 +98,7 @@ round, founders of MySpace).**
 
 ### [Sanas.ai](http://sanas.ai)
 
-**AI accent-removal for call centers (Series B, $75M Raised).**
+**AI voice accent-removal for call centers (Series B, $75M Raised).**
 
 * 6+ Eventum ML Engineers helped
     * MLOps
@@ -113,7 +117,7 @@ round, founders of MySpace).**
 > <img src="/static/img/shawn_zhang.png" width="25" height="25" style="float:left; padding-right:10px; padding-left:25px; border-radius: 50%; object-fit: cover; width: 25px; height: 25px">
 > Shawn Zhang, CTO, Co-Founder
 
-### [Nouns](http://nouns.wtf)
+### [Nouns DAO](http://nouns.wtf)
 
 **World's Largest DAO ($30M+ treasury).**
 
