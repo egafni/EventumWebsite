@@ -11,10 +11,10 @@ Eventum.ai  <a name="eventum"></a>
 We are a highly technical AI talent network and consulting agency that works with companies to accelerate research,
 development, and engineering of AI systems.
 
-No bullshit, just world-class AI talent to help you build incredible
+No fluff, just world-class AI talent to help you build incredible
 technology.
 
-[Contact](#contact)
+[Contact](#contact) asdf
 
 About us <a name="about"></a>
 ========
