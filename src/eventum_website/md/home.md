@@ -14,7 +14,7 @@ development, and engineering of AI systems.
 No fluff, just world-class AI talent to help you build incredible
 technology.
 
-[Contact](#contact) asdf
+[Contact us](#contact)
 
 About us <a name="about"></a>
 ========
