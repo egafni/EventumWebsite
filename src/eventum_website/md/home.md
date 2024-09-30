@@ -1,6 +1,9 @@
 <!-- <img src="/static/img/logo.png" width="200"> -->
 
-Eventum.ai
+
+[ [Eventum](#eventum) | [About](#about) | [Services](#services) | [Case Studies](#case_studies) | [Contact](#contact) ]
+
+Eventum.ai  <a name="eventum"></a>
 ==========
 
 {{ from_eventum }}
@@ -11,7 +14,7 @@ development, and engineering of AI systems.
 No bullshit, just world-class AI talent to help you build incredible
 technology.
 
-About us
+About us <a name="about"></a>
 ========
 
 **Our talent is split SF/Bay Area are and Eastern Europe**
@@ -34,10 +37,10 @@ About us
     * Vast majority of applicants fail the technical interviews
     * Our ML Engineers are usually the most technical and experienced people to join our clients' teams
 
-<img src="/static/img/erik_gafni.png" width="25" height="25" style="float:left; padding-right:10px; padding-left:25px; border-radius: 50%; object-fit: cover; width: 25px; height: 25px">
+<img src="/static/img/erik_gafni.jpeg" width="25" height="25" style="float:left; padding-right:10px; padding-left:25px; border-radius: 50%; object-fit: cover; width: 25px; height: 25px">
 Our founder [Erik Gafni](http://www.erikgafni.com/) is a seasoned AI entrepreneur, researcher, and engineer.
 
-Services
+Services  <a name="services"></a>
 ========
 
 **Consult-to-hire (most popular)**
@@ -59,7 +62,7 @@ Services
 
 * Work with our team directly to deliver a result or specific milestones. We only work with companies that have
 
-Example Case Studies
+Example Case Studies  <a name="case_studies"></a>
 ====================
 
 ### [Salt AI](https://getsalt.ai/)
@@ -142,24 +145,29 @@ round, founders of MySpace).**
 
 etc.
 
-Contact us
-============
+Contact us <a name="contact"></a>
+===========
 
+<div class="container">
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzzpnjer" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Full Name</label>
-    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="" style="max-width: 400px">
 <br>
     <label for="email-address">Email Address</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="user@domain.com" required="">
+    <input type="email" name="_replyto" id="email-address" placeholder="user@domain.com" required="" style="max-width: 400px">
+<br>
+    <label for="email-address">Phone / What's App / Telegram</label>
+    <input type="email" name="_contact" id="text" placeholder="" required="" style="max-width: 400px">
 <br>
     <label for="email-address">Budget</label>
-    <input type="text" name="_budget" id=budget" placeholder="" required="">
+    <input type="text" name="_budget" id=budget" placeholder="" required=""  style="max-width: 400px">
 <br>
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Info about your company, project,  and best way to contact you. Telegram/What's App/Signal welcome!" required=""></textarea>
+    <textarea style="max-width: 700px" rows="7" name="message" id="message" placeholder="How can we help?" required=""></textarea>
 <br>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
-  <input type="submit" value="Submit">
+  <input type="submit" value="Send" style="background-color: white">
 </form>
+</div>
