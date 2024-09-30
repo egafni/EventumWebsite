@@ -47,10 +47,10 @@ Services  <a name="services"></a>
 
 **Consult-to-hire (most popular)**
 
-* Work with an ML Engineer consultant with an option to hire them full-time at a later date
+* Work with a top 1% ML Engineer on a consulting basis, with an option to hire them full-time at a later date
     * Consultant must also be interested in the full-time hire
 * European ML Engineer:
-    * $45-$75/hr
+    * $40-$75/hr
 * SF/Bay Area ML Engineer:
     * $150+/hr
 * Minimum hours:
@@ -58,15 +58,15 @@ Services  <a name="services"></a>
 
 **Recruiting**
 
-* Directly hire an ML Engineer as a full-time employee
+* Directly hire a top 1% ML Engineer as a full-time employee
 
 **Project-based Consulting**
 
-* Work with our team directly to deliver a result or specific milestones. We only work with companies that have
+* Work with our team directly to deliver a result or specific milestones. We only work with companies that are funded.
 
 **Advising**
 
-* Get advice on your AI strategy, team, or project
+* Get advice on your AI strategy, team, or project.
 
 Example Case Studies  <a name="case_studies"></a>
 ====================
