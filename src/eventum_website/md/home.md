@@ -14,17 +14,18 @@ technology.
 About us
 ========
 
-Eventum is in SF, and our talent is split SF/Bay Area are and Eastern Europe.
+**Our talent is split SF/Bay Area are and Eastern Europe**
 
 * SF/Bay Area Talent
-    * Includes former [Meta](http://meta.com), [OpenAI](openai.com), [Google](http://google.com), and early-employees of high-flying AI unicorn startups
+    * Includes former [Meta](http://meta.com), [OpenAI](openai.com), [Google](http://google.com), and early-employees of
+      high-flying AI unicorn startups
 * International ML talent
     * Experience at world's biggest tech companies
     * Graduates from top ML university programs
-    * Winners of international ML competitions, and science olympiads 
+    * Winners of international ML competitions, and science olympiads
     * Lower rates, higher quality work
-    
-We have a very rigorous ML interview process for all talent.
+
+**We have a very rigorous ML interview process for all talent**
 
 * Our most Senior ML Engineers perform technical-interviews
     * ML theory, ML practice, statistics, probability, Software engineering
@@ -33,13 +34,13 @@ We have a very rigorous ML interview process for all talent.
     * Vast majority of applicants fail the technical interviews
     * Our ML Engineers are usually the most technical and experienced people to join our clients' teams
 
-Our founder [Erik Gafni](http://www.erikgafni.com/), a seasoned AI entrepreneur and engineer with a background in
-    AI research and development.
+<img src="/static/img/erik_gafni.png" width="25" height="25" style="float:left; padding-right:10px; padding-left:25px; border-radius: 50%; object-fit: cover; width: 25px; height: 25px">
+Our founder [Erik Gafni](http://www.erikgafni.com/) is a seasoned AI entrepreneur, researcher, and engineer.
 
 Services
 ========
 
-Consult-to-hire (most popular)
+**Consult-to-hire (most popular)**
 
 * Hire an ML Engineer consultant with an option to hire them full-time at a later date
     * Consultant must also be interested in the full-time hire
@@ -49,21 +50,22 @@ Consult-to-hire (most popular)
     * $150+/hr
 * Minimum hours:
     * 20/week
-  
-Recruiting
+
+**Recruiting**
 
 * Directly hire an ML Engineer as a full-time employee
 
-Project-based Consulting
+**Project-based Consulting**
 
-* Work with our team directly to deliver a result or specific milestones.  We only work with companies that have
+* Work with our team directly to deliver a result or specific milestones. We only work with companies that have
 
 Example Case Studies
 ====================
 
-[Salt AI](https://getsalt.ai/)
-($33M A16Z Seed round, founders of MySpace) is a visual development platform for teams to build AI faster in
-  an open ecosystem designed for scale
+### [Salt AI](https://getsalt.ai/)
+
+**A visual development platform for teams to build AI faster in an open ecosystem designed for scale ($33M A16Z Seed
+round, founders of MySpace).**
 
 * Seeded the entire initial team with 5+ Eventum ML Engineers and 1 ML Product Manager
     * Model fine-tuning
@@ -73,12 +75,23 @@ Example Case Studies
     * Image upscaling
 * A senior ML Manager on our team in SF helped get the initial product and research off the ground
 
-[Storia.ai](http://storia.ai) (YC startup) building an AI expert for the worlds code
+> Eventum built and managed our ML team, models, and software from the ground up at below market rates delivering
+> incredible results.
+> They are an essential partner for us that I couldn’t recommend more highly.
+
+> <img src="/static/img/jim_benedetto.png" width="25" height="25" style="float:left; padding-right:10px; padding-left:25px; border-radius: 50%; object-fit: cover; width: 25px; height: 25px">
+> Jim Benedetto, CTO, Co-Founder
+
+### [Storia.ai](http://storia.ai)
+
+**AI expert agent for the worlds code  (YC startup).**
 
 * We helped with ML talent to rapidly iterate on the product
 * Fine-tuning (LLMs, stable-diffusion) and model capability R&D
 
-[Sanas.ai](http://sanas.ai) (Series B, $75M Raised) is building accent-removal for call centers
+### [Sanas.ai](http://sanas.ai)
+
+**AI accent-removal for call centers (Series B, $75M Raised).**
 
 * 6+ Eventum ML Engineers helped
     * MLOps
@@ -90,33 +103,39 @@ Example Case Studies
         * Cloud cost optimization
     * Audio Research and Development
         * Assisted R&D for neural network model improvements
-      
-> "Eventum came in and quenched our MLOps fire in quick order ensuring our ML Scientists could make rapid 
+
+> "Eventum came in and quenched our MLOps fire in quick order ensuring our ML Scientists could make rapid
 > progress. We then immediately hired them to help build us a generative AI audio model from scratch"
 
-<img src="/static/img/shawn_zshang.png" width="100">
-- Shawn Zhang, CTO, Co-Founder
+> <img src="/static/img/shawn_zhang.png" width="25" height="25" style="float:left; padding-right:10px; padding-left:25px; border-radius: 50%; object-fit: cover; width: 25px; height: 25px">
+> Shawn Zhang, CTO, Co-Founder
 
-[Nouns DAO](http://nouns.wtf) ($30M+ treasury, largest DAO)
+### [Nouns](http://nouns.wtf)
+
+**World's Largest DAO ($30M+ treasury).**
 
 * Question/Answering chat-bot (RAG, knowledge graphs) and knowledge-base of Nouns information
     * Voice Conversation Recording and Summarization
     * Auto-Indexing for Searchable Knowledge Hub
     * Web Application for Accessibility
 
-[DeepCell.ai](http://deepcell.com) (Series B, $70M raised) is building a biological cell-sorting
+### [DeepCell.ai](http://deepcell.com)
+
+**Biological cell-sorting with microfluidics and AI (Series B, $70M raised).**
 
 * Rebuilt their entire computer vision training pipeline from scratch
 * Rebuilt their ML training job submission system from scratch
 * R&D
     * Decreased labeling requirements by >90% using self-supervised learning
     * Decreased mean error of neural network predictions by >40%
-      
-[GenerativeAlpha AI](http://galpha.ai) (Series A) is making LLM agents to automate investment research and decisions in stock and crypto markets
+
+### [GenerativeAlpha AI](http://galpha.ai)
+
+**Making LLM agents to automate investment research and decisions in stock and crypto markets (Series A).**
 
 * We've worked with them on:
     * Deep learning and classical ML for financial time-series modeling
-    * Fine-tuning LLMs to better reason about the news
+    * Fine-tuning LLMs to better reason about financial news and its market impact
     * MLOps
         * Multi-cloud ML job submission system
         * Kubernetes based low-latency and real-time prediction of financial markets with custom models
@@ -126,20 +145,21 @@ etc.
 Contact us
 ============
 
-Interested in contacting us?
-
-E-mail us at info_eventum.ai (replace _ with @) the following:
-
-* Your company and it's stage
-* What service you're interested in
-* Best way to contact you
-    * Telegram/What's App/Signal welcome!
-
-
-
-
-
-
-
-
-
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mzzpnjer" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Full Name</label>
+    <input type="text" name="name" id="full-name" placeholder="First and Last" required="">
+<br>
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="user@domain.com" required="">
+<br>
+    <label for="email-address">Budget</label>
+    <input type="text" name="_budget" id=budget" placeholder="" required="">
+<br>
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Info about your company, project,  and best way to contact you. Telegram/What's App/Signal welcome!" required=""></textarea>
+<br>
+    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Submit">
+</form>

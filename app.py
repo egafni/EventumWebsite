@@ -11,6 +11,10 @@ app = Flask(__name__,
             template_folder="src/eventum_website/templates",
             static_folder="src/eventum_website/static")
 
+import_eventum = """
+from eventum import talent, ai, consulting
+""".strip()
+
 
 @app.route("/")
 def home():
@@ -18,9 +22,7 @@ def home():
     nav = [
         # dict(name='asdfasdfdsa', url='/')
     ]
-    from_eventum = highlight('from eventum import ai, talent, consulting\n\n'
-                             'def build():\n'
-                             '    return True', PythonLexer(), HtmlFormatter())
+    from_eventum = highlight(import_eventum, PythonLexer(), HtmlFormatter())
 
     with open('src/eventum_website/md/home.md', 'r') as markdown_file:
         text = markdown_file.read()
